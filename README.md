@@ -4,8 +4,6 @@
 *Inspired by the structure of the I Ching, designed for autonomous agent governance.*
 
 > ⚠️ **Experimental.** This is a working framework, not a finished theory.
-> It has been reasoned through but not battle-tested in production.
-> Feedback, counter-examples, and broken cases are exactly what it needs.
 
 中文版见下方 ⬇︎ [中文](#中文版)
 
@@ -191,8 +189,7 @@ That parallel is the whole reason for the form.
 **面向 AI Agent 的状态驱动安全框架**
 *借鉴易经结构，用于自主 Agent 的行动治理。*
 
-> ⚠️ **实验性项目。** 这是一个可用的框架，而非完成的理论；经过推演但未经生产检验。
-> 最需要的正是反馈、反例和跑不通的案例。
+> ⚠️ **实验性项目。** 这是一个可用的框架，而非完成的理论
 
 ## 问题
 
